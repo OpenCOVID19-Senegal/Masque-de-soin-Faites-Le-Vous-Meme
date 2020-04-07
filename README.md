@@ -32,6 +32,8 @@ Fort Heureusement, il existe au Sénégal des entrepreneurs qui ont entrepris de
 
 * **SunuMask** - *+221 77 779 77 91*
 
+* **À vos masques** - *+221769003200*
+
 #### Notes et références
 
 Photo graffitis - https://www.igfm.sn/covid-19-au-senegal-des-graffitis-contre-le-coronavirus
