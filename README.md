@@ -8,7 +8,7 @@ Fort Heureusement, il existe au Sénégal des entrepreneurs qui ont entrepris de
 
 
 ## L'origine
-Le masque permet d'éviter de projeter des gouttelettes potentiellement contaminées. Au début ces masque étaient conseillées aux personnes suspectées de porter le virus. Nous étions habitués voir la population chinoise porter ces masques depuis l'avènement de la grippe aviaire et une émoticône leur est d'ailleurs dédié ":mask:"
+Le masque permet d'éviter de projeter des gouttelettes potentiellement contaminées. Au début ces masques étaient conseillées aux personnes suspectées de porter le virus. Nous étions habitués à voir la population chinoise porter ces masques depuis l'avènement de la grippe aviaire et une émoticône leur est d'ailleurs dédiée ":mask:"
 le port du masque n'est cependant pas nouveau. Déjà lors de la grande grippe espagnole de 1918 qui avait touché prés de 500 Millions et fait entre 50 et 100 millions de mort, la population portaient des masques pour se protéger comme nous le faisons aujourd'hui
  ![des jeunes portant un masque lors de la grippe espagnole](https://github.com/OpenCOVID19-Senegal/Masque-de-soin-Faites-Le-Vous-Meme/blob/master/Ressources/images/picture.jpg)
 ## Comment faire son masque
