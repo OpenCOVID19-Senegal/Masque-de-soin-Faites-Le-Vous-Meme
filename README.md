@@ -16,7 +16,7 @@ le port du masque n'est cependant pas nouveau. Déjà lors de la grande grippe e
 ## Les initiatives locales
 
 ## Où trouvez un masque
-
+Le Sénégal avait décidé ne réglementer la production de masques en exigeant une normalisations des masques à destination du marché sénégalais. Mais l'obligation du port du masque instaurée par le gouvernement à fait tombé cette obligation. Cependant cela n'exclut pas contrôliez par vous-mêmes les masques que vous portez pour votre sécurité et celle de votre entourage en cette période ou les contaminations communautaires augmentent rapidement. 
 Le tableau ci dessous recensent des producteurs et distributeurs de masque au Sénégal 
 
 |**Etablissement ou Responsable**|**Contact**|**Localité**|
