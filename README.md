@@ -17,25 +17,22 @@ le port du masque n'est cependant pas nouveau. Déjà lors de la grande grippe e
 
 ## Où trouvez un masque
 
-* **Marianne Bathily** - *+221776377431*
+Le tableau ci dessous recensent des producteurs et distributeurs de masque au Sénégal 
 
-* **Castor**
-    * **Cheikh Seye** - *+221778946652*
-    * **By Tchico** - *+221774260872*
-* **VDN**
-    * **Marie Mask** - *+221776446498*
+|**Etablissement ou Responsable**|**Contact**|**Localité**|
+|--|--|--|
+| **Marianne Bathily** | *+221776377431* |  |
+|**Cheikh Seye**|*+221778946652*|**Castor**|
+|**By Tchico**|*+221774260872*|**Castor**|
+|**Marie Mask**|*+221776446498*|**VDN**|
+|**Ateliers WAYAX**|*+221776026467*|**Parcelles Unité 26**
+|**Nabou Création**|*+221776391221*|
+|**Dakar Masks**|*+221762008444*|
+|**SunuMask**|*+221777797791*|
+|**À vos masques**|*+221769003200*|
+|**Dakar masks**|*+22176200844*|
 
-* **Parcelles Unité 26**
-    * **Ateliers WAYAX** - *+221776026467*
-
-* **Whatsapp**
-    * **NABOU CREATION** - *+221776391221*
-    * **Dakar Masks** - *+221762008444*
-
-* **SunuMask** - *+221 77 779 77 91*
-
-* **À vos masques** - *+221769003200*
-
+Le personnel et les étudiants de l'UGB ont mis en place une plateforme dénommée [SenMask](http://senmask221.sn/index.php/welcome) permettant de cartographier les stocks de masques.
 #### Notes et références
 
 Photo graffitis - https://www.igfm.sn/covid-19-au-senegal-des-graffitis-contre-le-coronavirus
